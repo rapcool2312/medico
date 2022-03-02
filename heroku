@@ -1,0 +1,3 @@
+https://medico23.herokuapp.com/ | https://git.heroku.com/medico23.git
+
+"build": "cd frontend && npm install && npm run build"
